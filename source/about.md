@@ -36,3 +36,37 @@ Facebook: Sorry, nothing serious there
 * Behriger FCB-1010 midi footswitch
 * Behriger BX 1200 120W Bass amplifier
 * Behringer TRUTH B2030 Studio monitors
+
+## Sources
+
+Below you will find my sources on web development, information
+technology and other stuff.
+
+### Web Development
+
+- [PHP Developer](http://www.phpdeveloper.org/)
+- [Sitepoint](http://www.sitepoint.com)
+- [Symfony Blog](http://symfony.com/blog/)
+- [The PHP Roundtable](https://www.phproundtable.com)
+- [Smashing Magazine](https://www.smashingmagazine.com)
+- [A List Apart](http://alistapart.com)
+- [CSI: PHP](http://csiphp.com)
+- [Performance Calendar](http://calendar.perfplanet.com/)
+- [Google Webmaster Central Blog](http://webmasters.googleblog.com/)
+
+### Information Technology
+
+- [Ubuntu](http://insights.ubuntu.com)
+- [Linux Gazette](http://linuxgazette.net/) (last issue on June 2011).
+- [Linux Journal](http://www.linuxjournal.com/)
+- [High Scalability](http://highscalability.com/blog/)
+- [Official Android Blog](http://officialandroid.blogspot.com/)
+- [Coding Horror](http://blog.codinghorror.com/)
+
+### Other Stuff
+
+- [xkcd](http://xkcd.com)
+- [Dilbert](http://dilbert.com/)
+- [The daily WTF](http://thedailywtf.com/)
+- [physics4u.gr](http://physics4u.gr/blog/)
+- [Οι Περιπέτειες του Ζαχαρία Δεντοφτιάχνω](http://www.triakilakodika.gr/)
