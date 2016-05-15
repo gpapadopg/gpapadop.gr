@@ -9,6 +9,8 @@ George Papadopoulos
 
 <img src="http://www.gravatar.com/avatar/1c7c65c0124dc5fe0c21a346b9225867" />
 
+Full stack web developer solving challenging problems, writing clean and maintainable code with best practices in mind. I prefer writing server side apps in PHP but I have no problem using ruby for chef recipes and python or bash for cli scripts.
+
 * [CEID](http://www.ceid.upatras.gr/) graduate
 * Works for [eight8](http://eight8.gr/)
 
@@ -17,7 +19,7 @@ George Papadopoulos
 Twitter: [@gpapadopg](http://twitter.com/gpapadopg) <br/>
 Github: [github.com/gpapadopg](https://github.com/gpapadopg) <br/>
 BitBucket: [bitbucket.org/gpapadopg/](https://bitbucket.org/gpapadopg/) <br/>
-LinkedIn: Are they still storing passwords in plain text? <br/>
+LinkedIn: [gr.linkedin.com/in/gpapadopg](https://gr.linkedin.com/in/gpapadopg) (hope they aren't storing passwords in plain text)<br/>
 Facebook: Sorry, nothing serious there
 
 ## Tech
@@ -65,8 +67,7 @@ technology and other stuff.
 
 ### Other Stuff
 
-- [xkcd](http://xkcd.com)
-- [Dilbert](http://dilbert.com/)
+- Comics: [xkcd](http://xkcd.com), [Dilbert](http://dilbert.com/)
 - [The daily WTF](http://thedailywtf.com/)
 - [physics4u.gr](http://physics4u.gr/blog/)
 - [Οι Περιπέτειες του Ζαχαρία Δεντοφτιάχνω](http://www.triakilakodika.gr/)
